@@ -1,7 +1,10 @@
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaarslan47&layout=compact&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=ardaarslan47&show_icons=true&theme=dark)
+
+### Languages
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaarslan47&layout=compact&theme=dark)
 
 ### Pins
 
