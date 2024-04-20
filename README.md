@@ -1,7 +1,7 @@
 ### Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaarslan47&layout=compact&theme=dark)]
-[![Stats](https://github-readme-stats.vercel.app/api?username=ardaarslan47&show_icons=true&theme=dark)]
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaarslan47&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ardaarslan47&show_icons=true&theme=dark)
 
 ### Pins
 
